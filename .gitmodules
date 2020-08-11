@@ -1,0 +1,63 @@
+[submodule "themes/classless-hugo"]
+	path = themes/classless-hugo
+	url = https://github.com/fiatjaf/classless-hugo.git
+[submodule "themes/hugo-theme-slim"]
+	path = themes/hugo-theme-slim
+	url = https://github.com/zhe/hugo-theme-slim
+[submodule "themes/elephants"]
+	path = themes/elephants
+	url = https://github.com/meibenny/elephants
+[submodule "themes/er"]
+	path = themes/er
+	url = https://github.com/lingxz/er
+[submodule "themes/hugo-lithium-theme"]
+	path = themes/hugo-lithium-theme
+	url = https://github.com/jrutheiser/hugo-lithium-theme.git
+[submodule "themes/charaka-hugo-theme"]
+	path = themes/charaka-hugo-theme
+	url = https://github.com/natarajmb/charaka-hugo-theme.git
+[submodule "themes/onetwothree"]
+	path = themes/onetwothree
+	url = https://github.com/schollz/onetwothree.git
+[submodule "themes/papaya"]
+	path = themes/papaya
+	url = https://github.com/plopcas/papaya.git
+[submodule "themes/vanilla-bootstrap-hugo-theme"]
+	path = themes/vanilla-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
+[submodule "themes/amperage"]
+	path = themes/amperage
+	url = https://github.com/asurbernardo/amperage.git
+[submodule "themes/manis-hugo-theme"]
+	path = themes/manis-hugo-theme
+	url = https://github.com/yursan9/manis-hugo-theme.git
+[submodule "themes/hugo-theme-nix"]
+	path = themes/hugo-theme-nix
+	url = https://github.com/LordMathis/hugo-theme-nix.git
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+	url = https://github.com/vividvilla/ezhil.git
+[submodule "themes/origin-hugo-theme"]
+	path = themes/origin-hugo-theme
+	url = https://github.com/fourtyone11/origin-hugo-theme.git
+[submodule "themes/hugo-theme-notrack"]
+	path = themes/hugo-theme-notrack
+	url = https://github.com/gevhaz/hugo-theme-notrack.git
+[submodule "themes/hugo-theme-den"]
+	path = themes/hugo-theme-den
+	url = https://github.com/shaform/hugo-theme-den.git
+[submodule "themes/alpha-church"]
+	path = themes/alpha-church
+	url = https://github.com/funkydan2/alpha-church.git
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/hugo-theme-sk2"]
+	path = themes/hugo-theme-sk2
+	url = https://github.com/J-Siu/hugo-theme-sk2.git
+[submodule "themes/hugo-theme-sk3"]
+	path = themes/hugo-theme-sk3
+	url = https://github.com/J-Siu/hugo-theme-sk3.git
+[submodule "themes/hugo-theme-cactus"]
+	path = themes/hugo-theme-cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
