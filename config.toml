@@ -1,3 +1,64 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ATX MEN'S BIBLE STUDY"
+theme = "tom-cactus"
+publishDir = "public"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Archive"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Queue"
+url = "/queue"
+weight = 3
+
+[[menu.main]]
+name = "Topics"
+url = "/topics"
+weight = 4
+
+[[menu.main]]
+name = "Resources"
+url = "/resources"
+weight = 5
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 6
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[params]
+
+colortheme = "dark"
+description = "This is the homepage for the Austin Texas Men's Bible Study."
+mainSection = "posts"
+showAllPostsOnHomePage = false
+postsOnHomePage = 5
+rss = true
+ # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+dateFormat = "2006-01-02" 
+show_updated = false
+
+[params.comments]
+enabled = true
+engine = "disqus"
+
+[[params.social]]
+name = "email"
+link = "example@example.com"  # no need for "mailto:" in the head
+
+[site.copright]
+copyright = "Tommy Odom"
