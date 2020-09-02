@@ -10,8 +10,7 @@ Each Bible Study is a 3 - 6 week session hosted by a study leader. This is the c
 ## Zoom 
 
 ## In Person
-| volunteer | length  | topic            |
-|-----------|---------|------------------|
-| T.O.      | 6 weeks | Diserto & Prayer |
-|           |         |                  |
-|           |         |                  |
+| volunteer     | length      | topic                          |
+|---------------|-------------|--------------------------------|
+| ~~T.O.~~      | ~~6 weeks~~ | ~~Discerning the will of God~~ |
+|               |             |                                |
