@@ -1,6 +1,6 @@
 baseURL = "https://austinmensbiblestudy.com"
 languageCode = "en-us"
-title = "ATX MEN'S BIBLE STUDY"
+title = "AUSTIN MENS BIBLE STUDY"
 theme = "tom-cactus"
 publishDir = "public"
 
